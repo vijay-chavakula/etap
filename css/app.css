@@ -44,6 +44,11 @@ margin: 0 auto;
     text-align: left;
 	margin-left: 24%;
 }
+.left-5{
+  position: relative;
+  text-align: left;
+  margin-left: 5%;
+}
 .flex-25{
 	flex: 25;
 }
